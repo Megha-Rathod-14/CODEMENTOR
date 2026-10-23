@@ -9,3 +9,4 @@ In addition to coding assistance, the application supports general conversations
 The system uses an AI backend to generate relevant responses and provide personalized assistance. Its responsive interface is designed to work across desktop, tablet, and mobile devices.
 
 The main objective of Friendly Coding Tutor is to make programming education easier, more interactive, and accessible. It helps users understand difficult concepts, improve coding skills, solve problems independently, and build confidence in learning new technologies through AI-powered guidance and continuous practice.
+<img width="576" height="767" alt="image" src="https://github.com/user-attachments/assets/38d85187-45dc-4194-bf63-689edbe6b85d" />
